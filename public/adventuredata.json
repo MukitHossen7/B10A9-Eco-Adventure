@@ -1,0 +1,228 @@
+[
+  {
+    "adventureTitle": "Mountain Trekking Expedition",
+    "image": "https://i.ibb.co.com/6R5zLQ0/discover-the-beauty-of-trekking.jpg",
+    "id": 1,
+    "categoryName": "Mountain Treks",
+    "shortDescription": "A thrilling trek through the rugged mountain trails, offering breathtaking views and challenging terrains.",
+    "adventureCost": 500,
+    "bookingAvailability": true,
+    "location": "Himalayas, Nepal",
+    "duration": "5 days",
+    "adventureLevel": "High",
+    "includedItems": ["Guide", "Camping Equipment", "Meals", "Transportation"],
+    "ecoFriendlyFeatures": [
+      "Carbon Offset",
+      "Eco-Friendly Lodges",
+      "Waste Management"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+      "Wear sturdy shoes",
+      "Bring warm clothes",
+      "Hydrate frequently"
+    ]
+  },
+  {
+    "adventureTitle": "Ocean Dive Safari",
+    "image": "https://i.ibb.co.com/Sst7szG/phinda-scuba-fishes.jpg",
+    "id": 2,
+    "categoryName": "Ocean Dives",
+    "shortDescription": "Explore the wonders beneath the ocean with professional divers, discovering vibrant coral reefs and marine life.",
+    "adventureCost": 750,
+    "bookingAvailability": true,
+    "location": "Great Barrier Reef, Australia",
+    "duration": "3 days",
+    "adventureLevel": "Medium",
+    "includedItems": ["Diving Gear", "Instructor", "Boat Ride", "Meals"],
+    "ecoFriendlyFeatures": [
+      "Coral Reef Protection",
+      "Waste Reduction",
+      "Eco-Friendly Boats"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Certified divers only",
+      "Bring sunscreen",
+      "Be mindful of marine life"
+    ]
+  },
+  {
+    "adventureTitle": "Rainforest Eco Tour",
+    "image": "https://i.ibb.co.com/xGGxqb1/1677689198238.jpg",
+    "id": 3,
+    "categoryName": "Nature Tours",
+    "shortDescription": "Discover the rich biodiversity of the rainforest with a guided eco-tour through lush greenery and wildlife.",
+    "adventureCost": 300,
+    "bookingAvailability": true,
+    "location": "Amazon Rainforest, Brazil",
+    "duration": "4 days",
+    "adventureLevel": "Low",
+    "includedItems": ["Guide", "Transportation", "Meals", "Wildlife Spotting"],
+    "ecoFriendlyFeatures": [
+      "Sustainable Tourism",
+      "Wildlife Conservation",
+      "Eco Lodges"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Wear light clothing",
+      "Pack insect repellent",
+      "Respect local wildlife"
+    ]
+  },
+  {
+    "adventureTitle": "Desert Safari Adventure",
+    "image": "https://i.ibb.co.com/6X0b5gB/126619-7ae7282e.jpg",
+    "id": 4,
+    "categoryName": "Desert Adventures",
+    "shortDescription": "A thrilling adventure through the desert dunes with opportunities for sandboarding and camel riding.",
+    "adventureCost": 400,
+    "bookingAvailability": true,
+    "location": "Sahara Desert, Morocco",
+    "duration": "2 days",
+    "adventureLevel": "Medium",
+    "includedItems": [
+      "Camel Ride",
+      "Sandboarding Equipment",
+      "Meals",
+      "Transportation"
+    ],
+    "ecoFriendlyFeatures": [
+      "Solar-Powered Camps",
+      "Waste Management",
+      "Conservation Efforts"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Bring sun protection",
+      "Wear comfortable clothes",
+      "Prepare for high temperatures"
+    ]
+  },
+  {
+    "adventureTitle": "Kayak Adventure",
+    "image": "https://i.ibb.co.com/6JH0r4c/photo-1450500392544-c2cb0fd6e3b8.jpg",
+    "id": 5,
+    "categoryName": "Water Sports",
+    "shortDescription": "A peaceful kayak journey through serene waters, perfect for nature lovers seeking tranquility and exploration.",
+    "adventureCost": 200,
+    "bookingAvailability": true,
+    "location": "Lake Tahoe, USA",
+    "duration": "1 day",
+    "adventureLevel": "Low",
+    "includedItems": ["Kayak", "Life Jacket", "Guide", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Eco-Friendly Kayaks",
+      "Water Pollution Control",
+      "Wildlife Protection"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Wear water shoes",
+      "Bring sunscreen",
+      "Keep the environment clean"
+    ]
+  },
+  {
+    "adventureTitle": "Eco-Friendly Cycling Tour",
+    "image": "https://i.ibb.co.com/Kz3RXH7/Mountain-Biking-Kyrgyzstan-Dan-Milner-Header-1.jpg",
+    "id": 6,
+    "categoryName": "Cycling Adventures",
+    "shortDescription": "Explore scenic routes on a sustainable cycling tour, promoting eco-friendly travel while enjoying nature.",
+    "adventureCost": 150,
+    "bookingAvailability": true,
+    "location": "Amsterdam, Netherlands",
+    "duration": "3 days",
+    "adventureLevel": "Low",
+    "includedItems": ["Cycle", "Helmet", "Guide", "Snacks"],
+    "ecoFriendlyFeatures": [
+      "Electric Cycle",
+      "Sustainable Routes",
+      "Plastic-Free"
+    ],
+    "maxGroupSize": 20,
+    "specialInstructions": [
+      "Wear comfortable clothes",
+      "Bring a water bottle",
+      "Respect local culture"
+    ]
+  },
+  {
+    "adventureTitle": "Glamping in the Wild",
+    "image": "https://i.ibb.co.com/85fYqRK/Weekend-glamping-near-South-Bend.jpg",
+    "id": 7,
+    "categoryName": "Glamping Adventures",
+    "shortDescription": "Experience luxury camping in a pristine wilderness, with eco-friendly amenities and breathtaking views.",
+    "adventureCost": 600,
+    "bookingAvailability": true,
+    "location": "Yellowstone, USA",
+    "duration": "2 days",
+    "adventureLevel": "Low",
+    "includedItems": ["Tent Accommodation", "Meals", "Campfire Setup", "Guide"],
+    "ecoFriendlyFeatures": [
+      "Solar Power",
+      "Compost Toilets",
+      "Zero-Waste Camping"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Pack warm clothes",
+      "Bring a flashlight",
+      "Prepare for outdoor activities"
+    ]
+  },
+  {
+    "adventureTitle": "Safari in the Wild",
+    "image": "https://i.ibb.co.com/wBQP5MC/Kluchit-Serengeti-National-Park-Featured-Image-min.jpg",
+    "id": 8,
+    "categoryName": "Wildlife Safaris",
+    "shortDescription": "A thrilling safari through wildlife reserves, offering close encounters with wild animals in their natural habitat.",
+    "adventureCost": 800,
+    "bookingAvailability": true,
+    "location": "Serengeti, Tanzania",
+    "duration": "6 days",
+    "adventureLevel": "Medium",
+    "includedItems": [
+      "Safari Guide",
+      "Transportation",
+      "Meals",
+      "Accommodation"
+    ],
+    "ecoFriendlyFeatures": [
+      "Wildlife Conservation",
+      "Eco-Friendly Lodges",
+      "Sustainable Practices"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Bring binoculars",
+      "Wear neutral-colored clothing",
+      "Respect wildlife"
+    ]
+  },
+  {
+    "adventureTitle": "Rock Climbing Expedition",
+    "image": "https://i.ibb.co.com/NCKvmh0/Overhanging-rock-climbing.jpg",
+    "id": 9,
+    "categoryName": "Extreme Sports",
+    "shortDescription": "A rock climbing adventure for thrill-seekers, offering challenging climbs and stunning views from the top.",
+    "adventureCost": 350,
+    "bookingAvailability": true,
+    "location": "Yosemite, USA",
+    "duration": "4 days",
+    "adventureLevel": "High",
+    "includedItems": ["Climbing Gear", "Instructor", "Meals", "Transportation"],
+    "ecoFriendlyFeatures": [
+      "Leave No Trace",
+      "Eco-Friendly Climbing Gear",
+      "Waste Disposal"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Wear climbing shoes",
+      "Bring gloves",
+      "Stay hydrated"
+    ]
+  }
+]

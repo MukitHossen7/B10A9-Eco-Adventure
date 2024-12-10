@@ -1,0 +1,44 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Alex Morgan",
+    "userImg": "https://haircutinspiration.com/wp-content/uploads/Teen-with-High-Fade-and-Curly-Fringe.jpg",
+    "review": "The mountain trek was an unforgettable experience! Breathtaking views and well-organized guides made it amazing.",
+    "rating": 5
+  },
+  {
+    "reviewId": 2,
+    "name": "Sophia Lee",
+    "userImg": "https://i.ibb.co.com/q5Y5Z9T/istockphoto-1392528328-612x612.jpg",
+    "review": "Ocean diving revealed a vibrant underwater world! The team ensured safety and made the adventure truly enjoyable.",
+    "rating": 4.8
+  },
+  {
+    "reviewId": 3,
+    "name": "James Carter",
+    "userImg": "https://im.rediff.com/movies/2021/jun/14family-man3.jpg",
+    "review": "Exploring the jungle was thrilling. The eco-friendly approach impressed me. A perfect blend of fun and nature!",
+    "rating": 4.7
+  },
+  {
+    "reviewId": 4,
+    "name": "Emily Davis",
+    "userImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Kye_Allums.jpg/800px-Kye_Allums.jpg",
+    "review": "The desert safari was magical! Sand dunes at sunset were stunning, and the eco-conscious setup was remarkable.",
+    "rating": 4.9
+  },
+  {
+    "reviewId": 5,
+    "name": "Liam Smith",
+    "userImg": "https://t4.ftcdn.net/jpg/00/88/53/89/360_F_88538986_5Bi4eJ667pocsO3BIlbN4fHKz8yUFSuA.jpg",
+    "review": "River rafting offered an adrenaline rush! The guides were knowledgeable, and the entire experience was unforgettable.",
+    "rating": 4.6
+  },
+  {
+    "reviewId": 6,
+    "name": "Olivia Brown",
+    "userImg": "https://i.ibb.co.com/ftkZYkv/photo-1522529599102-193c0d76b5b6.jpg",
+    "review": "Hiking through the rainforest felt like stepping into a movie. The team was professional, and nature was breathtaking!",
+    "rating": 5
+  }
+]
